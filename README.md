@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project
 
 This is the README file for the Django project. It provides an overview of the project, instructions for installation, usage, and other relevant information.
@@ -75,3 +76,4 @@ python manage.py runserver
 ```
 
 Access the application in your web browser at `http://localhost:8000/` or server IP.
+=======
